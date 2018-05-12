@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6836
     wikipedia: http://en.wikipedia.org/wiki/Thorne_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16634#Biltmore-OswaldThe-Diary-of-a-Hapless-Recruit
 gutenberg_issued: '2005-09-03'
 gutenberg_type: Text
 identifiers:
